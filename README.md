@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋 I'm Brad Didier
 
-<!--
-**Deegee13244/Deegee13244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a senior computer science student at the University of Cincinnati, passionate about crafting innovative solutions through code. My journey in the world of technology has equipped me with proficiency in Python, C++, C#, and JavaScript. I've honed my skills as a full-stack developer through internships, where I seamlessly blended React on the front-end with making impactful changes and working with databases APIs in a ASP.NET back-end. 
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Languages:** Python, C++, C#, JavaScript
+- **Front-end:** React
+- **Back-end:** .NET
+- **Skills:** Full-stack development, API integration, Problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Repos
+The repos available here contain mostly tasks and projects related to school work that I've completed across my student career.
+
+## 📬 Let's Connect
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/bradley-didier)
+- Email: braddidier13244@gmail.com
+
+Feel free to explore my repositories.
