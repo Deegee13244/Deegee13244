@@ -13,7 +13,7 @@ I'm a senior computer science student at the University of Cincinnati, passionat
 The repos available here contain mostly tasks and projects related to school work that I've completed across my student career.
 
 ## 📬 Let's Connect
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/bradley-didier)
+- [LinkedIn](https://www.linkedin.com/in/bradley-didier)
 - Email: braddidier13244@gmail.com
 
 Feel free to explore my repositories.
