@@ -4,10 +4,10 @@
 I'm a senior computer science student at the University of Cincinnati, passionate about crafting innovative solutions through code. My journey in the world of technology has equipped me with proficiency in Python, C++, C#, and JavaScript. I've honed my skills as a full-stack developer through internships, where I seamlessly blended React on the front-end with making impactful changes and working with databases APIs in a ASP.NET back-end. 
 
 ## 💻 Tech Stack
-- **Languages:** Python, C++, C#, JavaScript
-- **Front-end:** React
-- **Back-end:** .NET
-- **Skills:** Full-stack development, API integration, Problem-solving
+- **Languages:** Python, C++, C#, JavaScript, Typescript
+- **Front-end:** React, Angular, CSS
+- **Back-end:** ASP.NET, RESTful APIs
+- **Skills:** Full-stack development, API integration, SQL, Problem-solving
 
 ## 🛠️ Repos
 The repos available here contain mostly tasks and projects related to school work that I've completed across my student career.
